@@ -64,5 +64,5 @@ let newSpendings = [{tag: "food", amount: 0}, {tag: "education", amount: 0},{tag
         </div>
     );
 }
-
+//done project
 export default ChartComponent
